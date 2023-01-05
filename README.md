@@ -22,4 +22,4 @@ The BBC are looking to improve their online offering of educational content by d
 * Animations
 * Quiz between levels to allow user to progress deeper
 * Different size buildings to compare the depth
-* Give user a prize of a fish/sea creature depending on their score (with mini facts about it)
+* Give user a prize of a fish/sea creature depending on their score (with mini facts about it).
