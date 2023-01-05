@@ -5,6 +5,18 @@ A full stack Javascript educational app about the layers of the ocean and what l
 
 Completed as a group project in Week 10 of CodeClan.
 
+- [The Project Brief](#the-project-brief)
+  * [MVP](#mvp)
+  * [Extensions](#extensions)
+- [Project Parameters](#project-parameters)
+- [Video Walkthrough](#video-walkthrough)
+- [Challenges and Solutions](#challenges-and-solutions)
+  * [Time Challenges](#time-challenges)
+  * [Design Challenges](#design-challenges)
+- [Learning Points](#learning-points)
+- [Run Locally](#run-locally)
+
+<br>
 
 ## The Project Brief
 
@@ -32,6 +44,8 @@ We used a MoSCoW board to help determine what would be the best additional featu
 * Different size buildings to compare the depth
 * Give user a prize of a fish/sea creature depending on their score (with mini facts about it)
 
+<br>
+
 ## Project Parameters
 The project was completed as part of a team and used the following technologies:
 
@@ -44,7 +58,16 @@ The project was completed as part of a team and used the following technologies:
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+<br>
+
 ## Video Walkthrough
+
+
+https://user-images.githubusercontent.com/9053731/210783561-a5756e94-4113-4aa9-bbc3-5eaf7e3849f4.mp4
+
+
+<br>
+
 ##  Challenges and Solutions
 
 ### Time Challenges
@@ -60,6 +83,7 @@ We also experienced hardware issues which further reduced available build time. 
 
 As well as developing the app, our selected topic required a significant amount of subject matter research, content creation and visual asset creation.   As a team we tackled this by segmenting tasks into smaller ones, splitting them evenly between us and sharing knowledge and techniques (eg using Canva) with each other.  We also created a colour palette early for design consistency. 
 
+<br>
 
 ## Learning Points
 
@@ -68,6 +92,9 @@ As well as developing the app, our selected topic required a significant amount 
 - Overcoming development challenges collaboratively
 - Using Agile working methods
 - Using Git/GitHub for a multi person project
+
+
+<br>
 
 ## Run Locally
 
